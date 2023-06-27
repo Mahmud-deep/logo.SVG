@@ -30,7 +30,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Links
 
+https://drive.google.com/file/d/1u_a68ufuqpL5yIMvgk4Qaxz0e3fD4sxL/view
 
+https://watch.screencastify.com/v/zND2NLdnNZFHD6pWmfYI
 
 https://mahmud-deep.github.io/logo.SVG/
 
